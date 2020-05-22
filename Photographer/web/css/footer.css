@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 29, 2020, 9:57:03 PM
+    Author     : thang
+*/
+
+.containFooter{
+    background-color: #303030;
+}
+.footer{
+    height: 90px;
+
+}
+.textCreate{
+    float: left;
+    padding-top: 40px;
+}
+.textCreate a{
+    font-size: 13.6px;
+    color: white;
+    text-decoration-color:white;
+}
+

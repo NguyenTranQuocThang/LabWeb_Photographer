@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 30, 2020, 10:59:14 AM
+    Author     : thang
+*/
+.right{
+    width: 220px;
+}
+
+.headerRight{
+    height: 40px;
+    background-color: #303030;
+    line-height: 40px;
+    padding-left: 15px;
+    font-family: serif;
+}
+.footerRight{
+    padding-left: 15px;
+    background-color: rgb(136,58,61,0.5);
+    padding-top: 5.5px;
+    padding-bottom: 11px;
+}
+
+.footerRight a{
+    text-decoration-color: white;
+}
+
+
+.separatorLoGoText{
+    display: flex;
+
+}
+.logoFb{
+    background-image: url(../images/face.png);
+    background-repeat: no-repeat;
+}
+.propertyLogo{
+    width: 19px;
+    height: 18px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+.logoTw{
+    background-image: url(../images/twitter.png);
+    background-repeat: no-repeat;
+}
+.logoGG{
+    background-image: url(../images/google.png);
+    background-repeat: no-repeat;
+}
+

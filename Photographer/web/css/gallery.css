@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 1, 2020, 4:54:42 PM
+    Author     : thang
+*/
+.imgDes{
+    max-width: 690px;
+    max-height: 460px;
+}
+.divImg{
+    padding-top: 50px;
+    width: 690px;
+}
+.listImage{
+    display: grid;
+    grid-gap : 10px;
+    grid-template-columns: 165px 165px 165px 165px;
+    padding-bottom: 50px;
+}
+.boderImage{
+    background-color: white;
+    padding: 30px 12px;
+    border-radius: 5px;
+}
+
+.itemImage{
+    max-width:  140px;
+    max-height: 100px;
+    box-shadow: 0px 53px 30px -50px rgba(0,0,0,0.7);
+}
+

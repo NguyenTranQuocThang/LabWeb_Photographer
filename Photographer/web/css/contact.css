@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 1, 2020, 3:03:35 PM
+    Author     : thang
+*/
+
+.nameContact{
+    padding-top: 40px;
+    font-family: serif;
+    padding-bottom: 20px;
+}
+.smaltextContact{
+    padding-bottom: 5px;
+
+}
+.tel_mail_Contact{
+    padding-top: 20px;
+}
+
+.classTable{
+    border-collapse: collapse;
+}
+.contentContact{
+    padding-left: 10px;
+}
+.map{
+    margin-top: 50px;
+    background-image: url(../images/map.png);
+    background-repeat: no-repeat;
+    height: 514px;
+    width: 703px;
+}

@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 30, 2020, 1:06:10 PM
+    Author     : thang
+*/
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    height: auto;
+}
+.home{
+    height: auto ;
+    width: 720px;
+}
+.menu{
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.containBody{
+    background-image: url(../images/kaleidoscope.png);
+    background-color: #aa4043;
+    padding-bottom: 160px;
+}
+.font22px{
+    font-size: 22px;
+    color: white;
+}
+.font16px{
+    font-size: 16px;
+    color: white;
+}
+.separator{
+    display: flex;
+    padding-top: 30px;
+
+}
+.bigImage{
+    max-height: 470px;
+    max-width: 700px;
+    
+}
+
+
+.i{
+    padding-top: 6px;
+    color: white;
+    font-size: 14.4px;
+}
+
+.listedGallery{
+    padding-top: 80px;
+    display: flex;
+    
+}
+.boxGallery{
+    padding-right: 27px;
+}
+.block-images{
+    width: 215px;
+    height: 160px;
+}
+.imgGallary{
+    max-width: 215px;
+    max-height: 160px;
+}
+.titleGallary{
+    padding-top: 10px;
+}
+.titleGallary a{
+    text-decoration-color : white;
+}
+.short{
+    width: 214px;
+}
+.About{
+    padding-top: 20px;
+    font-size: 28px;
+    color: white;
+    font-family: serif;
+    padding-bottom: 20px;
+}
+.descript{
+    width: 700px;
+}

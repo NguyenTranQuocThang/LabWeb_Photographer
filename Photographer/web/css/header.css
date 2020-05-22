@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 27, 2020, 12:59:35 PM
+    Author     : thang
+*/
+
+.containMenu{
+    background-color: #303030;
+}
+.innerMenu{
+    border-right: 1px solid grey;
+}
+
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+    height: 40px;
+    line-height: 40px;
+}
+
+.menu ul li{
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    border-left: 1px solid grey;
+}
+
+.menu ul li a{
+    text-decoration: none;
+}
+
+
+.containerSubMenu{
+    background-color: #722f31;
+}
+.img{
+    width: 94px;
+    height: 82px;
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+}
+.separateMenu{
+    display: flex;
+    font-family: serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.rightMenu{
+    height: 82px;
+}
+.photoText{
+    font-size: 47px;
+    color: white;
+    padding-left: 20px;
+    margin-top: -8px;
+}
+.welcomText{
+    padding-top: 12px;
+    padding-left: 20px;
+}
+.link{
+    text-decoration: none;
+}
+.boldJS{
+    font-weight: bold;
+}
+.widthHomeMenu{
+    width: 140px;
+}
+.widthPageMenu{
+    width: 80px;
+}
